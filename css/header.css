@@ -1,0 +1,78 @@
+/*https://bootsnipp.com/snippets/featured/resize-amp-fixed-header-shrinking-header*/
+
+/* =Header
+-------------------------------------------------- */
+header {
+    background-image: url("../image/pexels-like1.png");
+    background-size: cover;
+    width: 100%;
+    height: 900px;
+    /*overflow: hidden;*/
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9;
+    /*background-color: #0683c9;*/
+    -webkit-transition: height .6s;
+    -moz-transition: height .6s;
+    -ms-transition: height .6s;
+    -o-transition: height .6s;
+    transition: height .6s;
+}
+
+.container{
+
+}
+
+div#logo {
+    display: inline-block;
+    width: 30%;
+    height: 200px;
+    /*line-height: 150px;*/
+    float: left;
+    margin: 20px;
+    /*font-family: "Oswald", sans-serif;*/
+    /*font-size: 60px;*/
+    /*color: white;*/
+    /*font-weight: 400;*/
+    -webkit-transition: all .6s;
+    -moz-transition: all .6s;
+    -ms-transition: all .6s;
+    -o-transition: all .6s;
+    transition: all .6s;
+}
+
+#logo img{
+    width: 100%;
+}
+header nav {
+    display: inline-block;
+    float: right;
+}
+header nav a {
+    line-height: 150px;
+    margin-left: 20px;
+    color: #9fdbfc;
+    font-weight: 700;
+    font-size: 18px;
+    -webkit-transition: all .6s;
+    -moz-transition: all .6s;
+    -ms-transition: all .6s;
+    -o-transition: all .6s;
+    transition: all .6s;
+}
+header nav a:hover {
+    color: white;
+}
+header.smaller {
+    height: 75px;
+}
+header.smaller h1#logo {
+    width: 150px;
+    height: 75px;
+    line-height: 75px;
+    font-size: 30px;
+}
+header.smaller nav a {
+    line-height: 75px;
+}

@@ -1,0 +1,444 @@
+/*font-family: 'Cormorant Garamond', serif;*/
+/*font-family: 'Raleway', sans-serif;*/
+/*font-family: 'Roboto', sans-serif;*/
+
+/*header HEADER header HEADER*/
+header{
+    background-image: url("../image/typing_header.png");
+    background-size: cover;
+    transition: height 1s;
+    height: 600px;
+}
+
+
+.menu{
+    color: transparent;
+    width:100%;
+    background-color: rgba(232, 199, 116, 0.4);
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+}
+
+.menu ul{
+    float: right;
+    display: inline-block;
+    padding:22px;
+}
+
+.menu li{
+    display: inline;
+    margin-right: 40px;
+}
+
+.menu li:hover {
+    color: white;
+    transition: all ease-in-out .3s;
+}
+
+
+
+.logo-img {
+    float: left;
+    display: inline-block;
+    width: 60px;
+    padding: 10px;
+
+}
+.logo-img img{
+    width: 100%;
+}
+
+.logo-name {
+    color: transparent;
+    font-family: 'Gilda Display', serif;
+    float: left;
+    padding:16px;
+    line-height: 1.3em;
+}
+
+
+.intro{
+    width:100%;
+    font-size: 2em;
+    padding: 20% 20px;
+}
+
+.intro h1{
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 700;
+    font-style: italic;
+    padding: 20px;
+}
+
+.intro h5{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    padding: 10px;
+}
+
+.hello{
+    width:100%;
+    font-size: 2em;
+    padding: 20% 20px;
+}
+
+.hello h1 {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 700;
+    font-style: italic;
+    padding: 20px;
+}
+
+.hello h6{
+    width: 66%;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    line-height: 1.8em;
+}
+
+.intro p{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: .4em;
+    /*padding:0;*/
+}
+
+/*this `.menu-padding` is actually on <content> tag */
+.menu-padding {
+    padding-top:50px;
+}
+
+.sticky {
+    background-color: rgb(253, 180, 9);
+    color: #000;
+    position: fixed;
+    top: 0;
+    transition: ease-in-out all 1s;
+    z-index: 3;
+}
+
+/* HEADER header MEDIA  Mix-Width 700px  HEADER header HEADER MEDIA !*/
+
+@media (max-width: 700px) {
+
+    .menu{
+        padding:0;
+        margin:0;
+        font-size: .4em;
+    }
+
+    .menu ul{
+        padding:20px;
+    }
+
+    .menu li{
+        margin:6px;
+    }
+
+    .logo-img {
+        width: 50px;
+        padding: 6px;
+    }
+
+    .logo-name {
+        display: none;
+    }
+
+    .intro{
+        padding: 40% 10px;
+    }
+
+    .hello{
+        padding: 30% 10px 36% 10px;
+    }
+
+    .hello h6{
+        width: 100%;
+        padding: 20px;
+        font-size: .6em;
+    }
+
+}
+
+/* content CONTENT content CONTENT content CONTENT content CONTENT */
+div.content{
+    margin:0;
+    padding:0;
+}
+
+
+div.brief {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding:0;
+    display: inline-block;
+}
+
+div.description {
+    max-width:100%;
+    display: block;
+}
+
+#hi {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 4em;
+    padding: 160px 20px 30px 60px;
+}
+
+.card {
+    /*margin: 2% 2%;*/
+    margin: 10px;
+    position: relative;
+    max-width: 31%;
+    height: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    /*background-color: rgba(129, 216, 208,1);*/
+}
+
+/*.card > :first-child {*/
+    /*margin-top: 0;*/
+/*}*/
+
+/*.card > :last-child {*/
+    /*margin-bottom: 0;*/
+/*}*/
+
+.card img {
+    width: 100%;
+    border: none;
+    vertical-align: middle;
+}
+
+.overlay {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    position: absolute;
+    top:0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, .6);
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    transition: .4s ease;
+    vertical-align: middle;
+    opacity: 0;
+    line-height: 1.6em;
+}
+
+.card:hover .overlay {
+    opacity: 1;
+    transition: .4s ease;
+}
+
+.overlay h2 {
+    color: white;
+    vertical-align: middle;
+    margin-top: 30%;
+}
+
+.overlay p {
+    color: white;
+    vertical-align: middle;
+    padding: 20px;
+}
+
+.overlay ul{
+    color: white;
+}
+
+
+
+/* MEDIA media MaxWith 700px == content CONTENT content CONTENT*/
+
+@media (max-width: 700px) {
+    div.content{
+        margin-top: 60px;
+    }
+    .card{
+        max-width: 40%;
+    }
+
+    .overlay {
+        color: white;
+        opacity:.9;
+        font-size: .2em;
+        height:40%;
+        top:60%;
+        padding:0;
+        line-height: 1em;
+    }
+    .overlay h2{
+         margin:0;
+         padding:4px 2px 2px 0;
+    }
+
+    .overlay p{
+        margin:0;
+        padding: 4px;
+    }
+    .overlay ul{
+        display: none;
+    }
+
+}
+
+.description {
+    padding: 20px;
+    line-height: 1.6em;
+}
+
+.description-left{
+    padding: 20px;
+    line-height: 1.6em;
+}
+
+.description-right{
+    padding: 20px;
+    line-height: 1.6em;
+}
+
+.ebook {
+    width:70%;
+    padding: 30px;
+    /*font-size: 0;*/
+}
+
+.ebook img{
+    margin:0;
+    width: 100%;
+}
+
+@media (max-width: 700px) {
+    .ebook {
+        width:100%;
+        padding: 10px;
+    }
+
+    .ebook img{
+        padding: 0;
+    }
+
+}
+
+.timeorange {
+    display: inline-block;
+    width:22%;
+    padding: 20px;
+}
+
+.timeorange img {
+    /*display: inline-block;*/
+    width:100%;
+    /*padding: 10px;*/
+    /*margin:0;*/
+}
+
+@media (max-width: 700px) {
+    .timeorange {
+        width:42%;
+        padding: 8px;
+    }
+}
+
+.china {
+    display: inline-block;
+    font-size: 0;
+    margin:0;
+    padding:10px;
+    vertical-align: middle;
+}
+.china img{
+    width:100%;
+}
+
+.brief h3 {
+    display: block;
+    margin: 30px;
+}
+
+.space {
+    border-top: dashed 1px;
+    border-bottom: dashed 1px;
+    padding: 50px 0;
+    margin: 50px 0;
+}
+
+.one-big{
+    width:100%;
+}
+
+.one-big img{
+    width: 100%;
+}
+
+.one{
+    width: 60%;
+}
+
+.one img{
+    width: 90%;
+}
+
+.two{
+    width:44%;
+}
+
+.three-one{
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+    line-height: 1.6em;
+    width: 33%;
+    display: inline-block;
+    padding: 20px;
+    vertical-align: top;
+}
+
+.three-one h2{
+    font-weight: 300;
+}
+
+.three-one p{
+    padding: 20px 0;
+}
+
+.three-one a:hover{
+    color: rgba(0,0,0,.6);
+    transition: all .3s;
+}
+
+.four {
+    width:22%;
+}
+
+.four-two {
+    width:22%;
+}
+
+@media (max-width: 700px) {
+    .four-two {
+        width: 44%;
+    }
+
+    .three-one{
+        width: 99%;
+    }
+}
+
+.me{
+    display: inline-block;
+    padding: 30px;
+    line-height: 1.6em;
+}
+
+.me img{
+    width: 100%;
+}
+
+
+
+
