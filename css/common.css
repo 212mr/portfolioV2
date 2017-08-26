@@ -4,6 +4,8 @@
 /*font-family: 'Montserrat', sans-serif;*/
 /*font-family: 'Gilda Display', serif;*/
 
+/*background-color: rgba(253, 180, 9, 1);*/
+
 
 * {
     margin: 0;
@@ -27,6 +29,7 @@ li{
     list-style-type: none;
 }
 
+
 .clearfix:after {
     visibility: hidden;
     display: block;
@@ -38,11 +41,29 @@ li{
     /*color: rgba(129, 216, 208,1);*/
 /*}*/
 
+button.tab {
+    display: inline;
+    border: 0;
+    border-radius: 8px;
+    padding: 6px 12px;
+    margin: 6px 0 0 10px;
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+    background-color: rgba(94, 168, 251, .2);
+    color: #0201c2;
+    outline: none;
+}
+
+button.tab:hover{
+    background-color: rgba(253, 180, 9, .6);
+}
+
 footer{
     width:100%;
     background-color: rgba(47, 72, 214, 0.3);
     font-family: Roboto, sans-serif;
     font-weight: 300;
+    margin-top: 40px;
 }
 
 .contact {
@@ -50,7 +71,7 @@ footer{
     padding-right: 20px;
     float: right;
     line-height: 1.6em;
-    font-size: .4em;
+    font-size: .8em;
     margin:0 30px 30px 30px;
 }
 
@@ -73,6 +94,114 @@ footer{
     color: #000;
     transition: all .3s;
 }
+
+
+@media (max-width: 700px) {
+    .contact {
+        width:50%;
+        font-size: .3em;
+        margin: -30px 0 20px 0;
+    }
+
+    .foot-left {
+        display: none;
+    }
+}
+
+/*=-=-=-=-*/
+
+.dual-box {
+    color: black;
+    margin:20px;
+}
+
+.dual-box h2{
+    font-family: 'Cormorant Garamond', serif;
+    /*font-size: 1.6em;*/
+    line-height: 2em;
+    margin:0;
+}
+.dual-box p{
+    margin:0;
+    /*font-family: Roboto, sans-serif;*/
+    font-weight: 300;
+    /*font-size: 1.2em;*/
+    line-height: 1.6em;
+}
+
+.dual-box.flipped .box:nth-child(1){
+    order: 2;
+}
+
+.dual-box.flipped .box:nth-child(2){
+    order: 1;
+}
+
+
+
+.box{
+    width:50%;
+    flex:1 1 auto;
+    padding: 10px;
+    margin: 20px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    line-height: 1.6em;
+}
+
+.box h2{
+    font-family:'Cormorant Garamond', serif;
+}
+
+
+.dual-box img{
+    width:100%;
+}
+
+
+.flex-parent{
+    display: -webkit-flex;
+    display: flex;
+}
+
+.flex-child{
+    flex:1 1 auto;
+}
+
+.flex-none{
+    flex:none;
+}
+
+
+@media (max-width: 700px) {
+
+    .dual-box .flex-parent {
+        flex-direction: column;
+    }
+
+    .dual-box .box {
+        width: 100%;
+        /*margin-top: 50px;*/
+        /*right:0;*/
+        /*margin-bottom: 40px;*/
+    }
+
+    .dual-box.flipped .box:nth-child(1) {
+        order: 1;
+        /*margin-top: 50px;*/
+    }
+
+    .dual-box.flipped .box:nth-child(2) {
+        order: 2;
+        /*margin-top: 50px;*/
+    }
+
+    .dual-box .box .centered-child {
+        position: relative;
+    }
+}
+
+
 
 
 /*=-=-=-=-=-=-= -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-*/
