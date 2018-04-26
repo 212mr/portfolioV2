@@ -1,0 +1,648 @@
+/*grident color font:background: */
+/*linear-gradient(to right, #8d40d4, #3ad6d4);*/
+/*-webkit-background-clip: text;*/
+/*-webkit-text-fill-color: transparent;*/
+
+
+/*font-family: 'Poppins', sans-serif;*/
+/*font-family: 'Playfair Display', serif;*/
+/*font-family: 'Cormorant', serif;*/
+/*family=Playfair+Display:400,400i,700,700i|Poppins:300,400,700,900*/
+/*font-family: 'Comfortaa', cursive;*/
+/*Cormorant:400,400i,500,500i,700,700i*/
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /*font-size: 14px;*/
+}
+
+.web-container{
+    max-width: 1080px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding:0;
+}
+
+.web-container img{
+    width: 100%;
+}
+
+.imagebox-flex-container{
+    display: flex;
+    justify-content: center;
+    align-content: stretch;
+}
+
+.imagebox-flex-container img {
+    object-fit: contain;
+    max-width:100%;
+    padding: 30px 10px;
+    align-self: center;
+}
+
+
+.mt{
+    margin-top: 80px;
+}
+
+.getLeft{
+    display: block;
+    width: 92%;
+}
+
+dl {
+    display:block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0;
+    -webkit-margin-end: 0;
+    line-height: 2em;
+    font-family: 'Poppins', sans-serif;
+}
+
+dl:after{
+    content:'';
+    display:table;
+    clear:both;
+}
+
+dt {
+    font-weight: bold;
+    text-align: right;
+    float: left;
+    clear: left;
+    /*width*/
+}
+
+dd {
+    display: block;
+    -webkit-margin-start: 80px;
+    font-weight: 200;
+    padding-right:20px;
+    /*width:calc(100% - 33vw);*/
+}
+
+
+.dash-smart{
+    height: 6px;
+    width: 50px;
+    /*background: linear-gradient(to right, #8d40d4, #3ad6d4);*/
+    background-color: #68C4DD;
+    margin: 30px 0;
+}
+
+
+
+.dash-china{
+    height: 6px;
+    width: 50px;
+    /*background: linear-gradient(to right, #8d40d4, #3ad6d4);*/
+    background-color: #f8b62d;
+    margin: 30px 0;
+}
+
+
+.dash-orange{
+    height: 6px;
+    width: 50px;
+    /*background: linear-gradient(to right, #8d40d4, #3ad6d4);*/
+    background-color: #FF9501;
+    margin: 30px 0;
+}
+
+.dash-bones{
+    height: 6px;
+    width: 50px;
+    background-color:rgba(129,216,208,1);
+    margin: 30px 0;
+}
+
+
+.dash-gotya{
+    height: 6px;
+    width: 50px;
+    background-color:#00abc0;
+    margin: 30px 0;
+}
+
+
+.bio{
+    width: 66%;
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 30px;
+}
+
+
+.phoneHead {
+    font-size: 2em;
+}
+
+
+.oneFour{
+    width: 22%;
+    display: inline-block;
+    padding: 0;
+    margin: 10px 10px;
+    vertical-align: top;
+}
+
+.oneFour img{
+    width: 100%;
+}
+
+.firstWebSec{
+    margin: 50px 10px 10px 10px;
+}
+
+.poppins200{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+}
+
+.poppins400{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+
+.play{
+    font-family: 'Playfair Display', serif;
+}
+
+#gotya{
+    font-size: 4em;
+    line-height: 2em;
+}
+
+
+h1{
+    text-transform: uppercase;
+    line-height: 1.5em;
+}
+
+h4{
+    line-height: 1.5em;
+}
+
+h5{
+    line-height: 2em;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+}
+
+
+.webVl {
+    display: inline-block;
+    margin: 30px 20px 40px 20px;
+    border-right: 1px solid black;
+    width:2px;
+    height:320px;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+
+.leftHalf{
+    display: inline-block;
+    width: 49%;
+    margin: 0 0;
+    padding: 10px auto;
+    vertical-align: middle;
+    position:relative;
+}
+
+#bonesLogo {
+    width: 50%;
+}
+
+#gotyaLogo {
+    width: 90%;
+}
+
+.rightHalf{
+    position:relative;
+    display: inline-block;
+    width: 46%;
+    margin: 0 0;
+    padding: 10px auto;
+    vertical-align: middle;
+}
+
+.rightHalf img{
+    width: 100%;
+}
+
+.rightHalf p {
+    /*margin-left: 40px;*/
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    line-height: 1.5em;
+}
+
+.cell {
+    width: 50%;
+}
+
+.cell img{
+    width: 100%;
+}
+
+
+.flowerPhotoLeft{
+    position: relative;
+    display: inline-block;
+    width: 90%;
+    /*padding: 20px 20px;*/
+}
+
+.flowerPhotoLeft img{
+    width: 100%;
+}
+
+.flowerPhotoText{
+    top: 50%;
+    left:60%;
+    /*right: 150%;*/
+    width: 60%;
+    bottom: 0;
+    position: absolute;
+    background-color: rgba(0,0,0,0.7);
+    height: 150px;
+    z-index: 9;
+    /*text-align: left;*/
+    color: white;
+    padding: 30px 10px 30px 40px;
+}
+
+
+/*..*/
+
+.smartPhotoLeft{
+    position: relative;
+    display: inline-block;
+    width: 60%;
+    /*margin-top: 80px;*/
+    /*vertical-align: bottom;*/
+}
+
+.smartPhotoLeft img{
+    width: 100%;
+}
+
+.smartPhotoTile{
+    top: 6%;
+    left:50%;
+    bottom: 0;
+    position: absolute;
+    text-align: left;
+    color: black;
+    padding: 10px 10px;
+}
+
+.smartPhotoTile h1{
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    font-size: 4em;
+}
+
+.smartPhotoTile p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 1em;
+}
+
+.smartPhotoText {
+    box-sizing: border-box;
+    position: relative;
+    display: inline-block;
+    width: 34%;
+    padding-left:20px;
+    vertical-align: bottom;
+}
+
+
+img.china_many {
+    padding: 10px 40px 0 0;
+}
+
+.chinayellow {
+    color:#f8b62d;
+}
+
+.smartblue{
+    color:#68C4DD;
+}
+
+.gotyablue{
+    color: #00abc0;
+}
+
+.Torange{
+    color:#FF9501;
+}
+
+
+.font{
+    width: 30%;
+    position:relative;
+    line-height: 1.6em;
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.cormorant {
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.paris{
+    font-family: 'Parisienne', cursive;
+}
+
+
+.josefin{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.sacramento{
+    font-family: 'Sacramento', cursive;
+}
+
+.cambo{
+    font-family: 'Cambo', serif;
+}
+
+.comfortaa{
+    font-family: 'Comfortaa', cursive;
+}
+
+.helvetica {
+    font-family: helvetica;
+}
+
+
+
+.color{
+    display: inline-block;
+    width: 18%;
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    line-height: 1.5em;
+    margin: 30px 4px;
+}
+
+.color{
+    font-size: 0.8em;
+}
+
+.colorWhite{
+     background-color: #ffffff;
+     border-radius: 50%;
+     width: 100px;
+     height:100px;
+     border: 1px solid lightgray;
+     /*box-shadow: 2px 2px 2px grey;*/
+     margin-bottom: 20px;
+ }
+
+.colorLightBlue{
+    background-color: rgba(169,228,222,1);
+    border-radius: 50%;
+    width: 100px;
+    height:100px;
+    /*border: 1px solid lightgray;*/
+    /*box-shadow: 2px 2px 2px grey;*/
+    margin-bottom: 20px;
+}
+
+.colorBlue{
+    background-color: rgba(129,216,208,1);
+    border-radius: 50%;
+    width: 100px;
+    height:100px;
+    /*border: 1px solid lightgray;*/
+    /*box-shadow: 2px 2px 2px grey;*/
+    margin-bottom: 20px;
+}
+
+.colorGrey{
+    background-color: rgba(153,153,153,1);
+    border-radius: 50%;
+    width: 100px;
+    height:100px;
+    /*border: 1px solid lightgray;*/
+    /*box-shadow: 2px 2px 2px grey;*/
+    margin-bottom: 20px;
+}
+
+.colorBlack{
+    background-color: rgba(0,0,0,1);
+    border-radius: 50%;
+    width: 100px;
+    height:100px;
+    box-shadow: 2px 2px 2px grey;
+    margin-bottom: 20px;
+}
+
+.colorPink{
+    background-color: #e7ae9d;
+    border-radius: 50%;
+    width: 100px;
+    height:100px;
+    box-shadow: 2px 2px 2px grey;
+    margin-bottom: 20px;
+}
+
+.colorDarkBlue{
+    background-color: #00abc0;
+    border-radius: 50%;
+    width: 100px;
+    height:100px;
+    box-shadow: 2px 2px 2px grey;
+    margin-bottom: 20px;
+}
+
+
+.colorSmartLightBlue{
+    background-color: #68C4DD;
+    border-radius: 50%;
+    width: 100px;
+    height:100px;
+    box-shadow: 2px 2px 2px grey;
+    margin-bottom: 20px;
+}
+
+.colorSmartEdgeBlue{
+    background-color:  #3ad6d4;
+    border-radius: 50%;
+    width: 100px;
+    height:100px;
+    box-shadow: 2px 2px 2px grey;
+    margin-bottom: 20px;
+}
+
+.colorSmartEdgePurple{
+    background-color:  #8d40d4;
+    border-radius: 50%;
+    width: 100px;
+    height:100px;
+    box-shadow: 2px 2px 2px grey;
+    margin-bottom: 20px;
+}
+
+.colorSmartLightPurple{
+    background-color: #8A9EDE;
+    border-radius: 50%;
+    width: 100px;
+    height:100px;
+    box-shadow: 2px 2px 2px grey;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+a.gotyaWeb{
+    font-size: 2em;
+    color: #00abc0;
+}
+
+a.gotyaWeb:hover{
+    color: #999999;
+}
+
+
+
+a.shop{
+    font-size: 2em;
+    color:rgba(129,216,208,1);
+}
+
+a.shop:hover{
+    color: #d2d2d2;
+}
+
+.smartdelivery {
+    color:#8d40d4;
+    font-weight: 400;
+
+}
+
+#oldCouple{
+    padding: 30px 40px;
+}
+
+#facecode {
+    width: 500px;
+    height:600px;
+    background-color: black;
+    color: darkgray;
+    padding-left:20px;
+    margin-left: 40px;
+}
+
+
+
+/*......*/
+
+@media (max-width: 600px) {
+    *{
+        font-size: 13px;
+    }
+
+    hr{
+        margin: 40px 0;
+    }
+
+    .web-container {
+        margin-left:20px;
+    }
+    .imagebox-flex-container{
+        display: block;
+    }
+
+    .imagebox-flex-container img {
+        padding:10px 10px;
+    }
+
+    .cell {
+        width: 90%;
+    }
+
+    .oneFour{
+        width: 40%;
+    }
+
+    .rightHalf{
+        display: block;
+        width: 90%;
+        /*margin: 10px 2px 30px 2px;*/
+    }
+
+    .phoneHead {
+        font-size: 1.4em;
+    }
+
+    .leftHalf{
+        display: block;
+        width: 90%;
+        padding: 40px 2px;
+    }
+
+    .flowerPhotoText{
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 140px;
+        font-size: 0.8em;
+    }
+
+    .smartPhotoLeft{
+        width: 100%;
+    }
+
+    .smartPhotoTile{
+        top:0;
+        left: 0;
+        font-size: 0.6em;
+    }
+
+    .smartPhotoText{
+        display: block;
+        width: 90%;
+    }
+
+    img.china_many {
+        display: none;
+    }
+
+
+    .font{
+        display: block;
+        width: 90%;
+        margin: 26px 10px;
+    }
+
+    .webVl{
+        display: none;
+    }
+
+    .color p{
+        font-size: 0.8em;
+    }
+    .color-dis1{
+        display: none;
+    }
+}

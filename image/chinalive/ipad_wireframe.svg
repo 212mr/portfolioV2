@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="480px" height="550px" viewBox="0 0 480 550" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="200" height="144.012043" rx="6"></rect>
+        <rect id="path-3" x="0" y="0" width="200" height="144.012043" rx="6"></rect>
+        <rect id="path-5" x="0" y="0" width="200" height="144.012043" rx="6"></rect>
+        <rect id="path-7" x="0" y="0" width="200" height="144.141978" rx="6"></rect>
+        <linearGradient x1="0%" y1="50%" x2="93.6885552%" y2="50%" id="linearGradient-9">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-10" x="0" y="0" width="80" height="4"></rect>
+        <rect id="path-12" x="0" y="0" width="200" height="144.012043" rx="6"></rect>
+        <rect id="path-14" x="0" y="0" width="80" height="4"></rect>
+        <rect id="path-16" x="0" y="0" width="200" height="144.012043" rx="6"></rect>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-5" transform="translate(264.000000, 13.000000)">
+            <g id="Empty-Flowchart-Copy">
+                <g id="Bg">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#F9F9FA" xlink:href="#path-1"></use>
+                </g>
+                <text id="Features" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" line-spacing="20" letter-spacing="-0.400000006" fill="#F8B62D">
+                    <tspan x="83.984375" y="163.046875"> </tspan>
+                    <tspan x="87.5453125" y="163.046875" font-size="12">Menu</tspan>
+                </text>
+                <g id="Base-Elements-/-Status-Bar">
+                    <g id="Status-Bar">
+                        <path d="M0,4 C0,1.790861 1.79010294,0 3.99507582,0 L196.004924,0 C198.211344,0 200,1.79535615 200,4 L200,8 L0,8 L0,4 Z" id="Combined-Shape" fill="#F9F9FA"></path>
+                        <rect id="Shape" fill="#E4EAEF" x="85.2631579" y="2.8" width="29.4736842" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="173.684211" y="2.8" width="18.9473684" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="163.157895" y="2.8" width="7.36842105" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="7.36842105" y="2.8" width="7.36842105" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="17.8947368" y="2.8" width="7.36842105" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="28.4210526" y="2.8" width="7.36842105" height="2.8" rx="1.4"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Shape-Copy-2" style="mix-blend-mode: color-dodge;" transform="translate(42.000000, 48.000000)" fill="#F9F9FA">
+                <path d="M36,32 L36,4 C36,1.8 34.2,0 32,0 L4,0 C1.8,0 0,1.8 0,4 L0,32 C0,34.2 1.8,36 4,36 L32,36 C34.2,36 36,34.2 36,32 L36,32 Z M11,21 L16,27.02 L23,18 L32,30 L4,30 L11,21 L11,21 Z" id="Shape"></path>
+            </g>
+            <g id="Shape-Copy-3" style="mix-blend-mode: color-dodge;" transform="translate(118.000000, 49.000000)" fill="#F9F9FA">
+                <path d="M36,32 L36,4 C36,1.8 34.2,0 32,0 L4,0 C1.8,0 0,1.8 0,4 L0,32 C0,34.2 1.8,36 4,36 L32,36 C34.2,36 36,34.2 36,32 L36,32 Z M11,21 L16,27.02 L23,18 L32,30 L4,30 L11,21 L11,21 Z" id="Shape"></path>
+            </g>
+            <rect id="Rectangle-2-Copy-2" fill="#E4EAEF" x="0" y="114" width="200" height="30" rx="3"></rect>
+            <path d="M9,20.5714697 L17.2813539,13 L26,20.9712769 C24.1397124,23.4100331 21.0905453,25 17.6445381,25 C14.0136186,25 10.8232707,23.2348202 9,20.5714697 Z" id="Combined-Shape-Copy" fill-opacity="0.3" fill="#F8B62D" transform="translate(17.500000, 19.000000) scale(1, -1) translate(-17.500000, -19.000000) "></path>
+        </g>
+        <g id="Group-2" transform="translate(264.000000, 189.000000)">
+            <g id="Empty-Flowchart-Copy-4">
+                <g id="Bg">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Mask" fill="#F9F9FA" xlink:href="#path-3"></use>
+                </g>
+                <text id="Features" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="-0.400000006" fill="#F8B62D">
+                    <tspan x="44.6746094" y="160.046875">Dine / Drink Sub-menu</tspan>
+                </text>
+                <g id="Base-Elements-/-Status-Bar">
+                    <g id="Status-Bar">
+                        <path d="M0,4 C0,1.790861 1.79010294,0 3.99507582,0 L196.004924,0 C198.211344,0 200,1.79535615 200,4 L200,8 L0,8 L0,4 Z" id="Combined-Shape" fill="#F9F9FA"></path>
+                        <rect id="Shape" fill="#E4EAEF" x="85.2631579" y="2.8" width="29.4736842" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="173.684211" y="2.8" width="18.9473684" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="163.157895" y="2.8" width="7.36842105" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="7.36842105" y="2.8" width="7.36842105" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="17.8947368" y="2.8" width="7.36842105" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="28.4210526" y="2.8" width="7.36842105" height="2.8" rx="1.4"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Shape-Copy-10" style="mix-blend-mode: color-dodge;" transform="translate(37.000000, 86.000000)" fill="#F9F9FA">
+                <path d="M35.7567568,19.6333333 L35.7567568,0.966666667 C35.7567568,-0.5 33.9567568,-1.7 31.7567568,-1.7 L3.75675676,-1.7 C1.55675676,-1.7 -0.243243243,-0.5 -0.243243243,0.966666667 L-0.243243243,19.6333333 C-0.243243243,21.1 1.55675676,22.3 3.75675676,22.3 L31.7567568,22.3 C33.9567568,22.3 35.7567568,21.1 35.7567568,19.6333333 L35.7567568,19.6333333 Z M10.7567568,12.3 L15.7567568,16.3133333 L22.7567568,10.3 L31.7567568,18.3 L3.75675676,18.3 L10.7567568,12.3 L10.7567568,12.3 Z" id="Shape"></path>
+            </g>
+            <g id="Shape-Copy-11" style="mix-blend-mode: color-dodge;" transform="translate(37.000000, 57.000000)" fill="#F9F9FA">
+                <path d="M35.7567568,19.6333333 L35.7567568,0.966666667 C35.7567568,-0.5 33.9567568,-1.7 31.7567568,-1.7 L3.75675676,-1.7 C1.55675676,-1.7 -0.243243243,-0.5 -0.243243243,0.966666667 L-0.243243243,19.6333333 C-0.243243243,21.1 1.55675676,22.3 3.75675676,22.3 L31.7567568,22.3 C33.9567568,22.3 35.7567568,21.1 35.7567568,19.6333333 L35.7567568,19.6333333 Z M10.7567568,12.3 L15.7567568,16.3133333 L22.7567568,10.3 L31.7567568,18.3 L3.75675676,18.3 L10.7567568,12.3 L10.7567568,12.3 Z" id="Shape"></path>
+            </g>
+            <g id="Shape-Copy-12" style="mix-blend-mode: color-dodge;" transform="translate(37.000000, 28.000000)" fill="#F9F9FA">
+                <path d="M35.7567568,19.6333333 L35.7567568,0.966666667 C35.7567568,-0.5 33.9567568,-1.7 31.7567568,-1.7 L3.75675676,-1.7 C1.55675676,-1.7 -0.243243243,-0.5 -0.243243243,0.966666667 L-0.243243243,19.6333333 C-0.243243243,21.1 1.55675676,22.3 3.75675676,22.3 L31.7567568,22.3 C33.9567568,22.3 35.7567568,21.1 35.7567568,19.6333333 L35.7567568,19.6333333 Z M10.7567568,12.3 L15.7567568,16.3133333 L22.7567568,10.3 L31.7567568,18.3 L3.75675676,18.3 L10.7567568,12.3 L10.7567568,12.3 Z" id="Shape"></path>
+            </g>
+            <rect id="Rectangle-2-Copy-7" fill="#E4EAEF" x="0" y="114" width="200" height="30" rx="3"></rect>
+            <rect id="Rectangle-2-Copy-8" fill="#C8C8C8" x="82" y="26" width="111" height="12" rx="3"></rect>
+            <rect id="Rectangle-2-Copy-11" fill="#C8C8C8" x="7" y="27" width="21" height="9" rx="3"></rect>
+            <rect id="Rectangle-2-Copy-13" fill-opacity="0.8" fill="#E4EAEF" x="7" y="55" width="21" height="9" rx="3"></rect>
+            <rect id="Rectangle-2-Copy-12" fill-opacity="0.8" fill="#E4EAEF" x="7" y="41" width="21" height="9" rx="3"></rect>
+            <rect id="Rectangle-2-Copy-14" fill-opacity="0.8" fill="#E4EAEF" x="7" y="69" width="21" height="9" rx="3"></rect>
+            <rect id="Rectangle-2-Copy-9" fill="#C8C8C8" x="82" y="55" width="111" height="12" rx="3"></rect>
+            <rect id="Rectangle-2-Copy-10" fill="#C8C8C8" x="82" y="85" width="111" height="12" rx="3"></rect>
+            <path d="M9,17.5714697 L17.2813539,10 L26,17.9712769 C24.1397124,20.4100331 21.0905453,22 17.6445381,22 C14.0136186,22 10.8232707,20.2348202 9,17.5714697 Z" id="Combined-Shape-Copy-4" fill-opacity="0.3" fill="#F8B62D" transform="translate(17.500000, 16.000000) scale(1, -1) translate(-17.500000, -16.000000) "></path>
+        </g>
+        <g id="Group" transform="translate(24.000000, 366.000000)">
+            <g id="Empty-Flowchart-Copy-5">
+                <g id="Bg">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <use id="Mask" fill="#F9F9FA" xlink:href="#path-5"></use>
+                </g>
+                <text id="Features" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="-0.400000006" fill="#F8B62D">
+                    <tspan x="44.6746094" y="160.046875">Dine / Drink Sub-menu</tspan>
+                </text>
+                <g id="Base-Elements-/-Status-Bar">
+                    <g id="Status-Bar">
+                        <path d="M0,4 C0,1.790861 1.79010294,0 3.99507582,0 L196.004924,0 C198.211344,0 200,1.79535615 200,4 L200,8 L0,8 L0,4 Z" id="Combined-Shape" fill="#F9F9FA"></path>
+                        <rect id="Shape" fill="#E4EAEF" x="85.2631579" y="2.8" width="29.4736842" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="173.684211" y="2.8" width="18.9473684" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="163.157895" y="2.8" width="7.36842105" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="7.36842105" y="2.8" width="7.36842105" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="17.8947368" y="2.8" width="7.36842105" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="28.4210526" y="2.8" width="7.36842105" height="2.8" rx="1.4"></rect>
+                    </g>
+                </g>
+            </g>
+            <rect id="Rectangle-2-Copy-16" fill="#C8C8C8" x="82" y="26" width="111" height="12" rx="3"></rect>
+            <g id="Shape-Copy-13" style="mix-blend-mode: color-dodge;" transform="translate(37.000000, 86.000000)" fill="#F9F9FA">
+                <path d="M35.7567568,19.6333333 L35.7567568,0.966666667 C35.7567568,-0.5 33.9567568,-1.7 31.7567568,-1.7 L3.75675676,-1.7 C1.55675676,-1.7 -0.243243243,-0.5 -0.243243243,0.966666667 L-0.243243243,19.6333333 C-0.243243243,21.1 1.55675676,22.3 3.75675676,22.3 L31.7567568,22.3 C33.9567568,22.3 35.7567568,21.1 35.7567568,19.6333333 L35.7567568,19.6333333 Z M10.7567568,12.3 L15.7567568,16.3133333 L22.7567568,10.3 L31.7567568,18.3 L3.75675676,18.3 L10.7567568,12.3 L10.7567568,12.3 Z" id="Shape"></path>
+            </g>
+            <g id="Shape-Copy-14" style="mix-blend-mode: color-dodge;" transform="translate(37.000000, 57.000000)" fill="#F9F9FA">
+                <path d="M35.7567568,19.6333333 L35.7567568,0.966666667 C35.7567568,-0.5 33.9567568,-1.7 31.7567568,-1.7 L3.75675676,-1.7 C1.55675676,-1.7 -0.243243243,-0.5 -0.243243243,0.966666667 L-0.243243243,19.6333333 C-0.243243243,21.1 1.55675676,22.3 3.75675676,22.3 L31.7567568,22.3 C33.9567568,22.3 35.7567568,21.1 35.7567568,19.6333333 L35.7567568,19.6333333 Z M10.7567568,12.3 L15.7567568,16.3133333 L22.7567568,10.3 L31.7567568,18.3 L3.75675676,18.3 L10.7567568,12.3 L10.7567568,12.3 Z" id="Shape"></path>
+            </g>
+            <g id="Shape-Copy-15" style="mix-blend-mode: color-dodge;" transform="translate(37.000000, 28.000000)" fill="#F9F9FA">
+                <path d="M35.7567568,19.6333333 L35.7567568,0.966666667 C35.7567568,-0.5 33.9567568,-1.7 31.7567568,-1.7 L3.75675676,-1.7 C1.55675676,-1.7 -0.243243243,-0.5 -0.243243243,0.966666667 L-0.243243243,19.6333333 C-0.243243243,21.1 1.55675676,22.3 3.75675676,22.3 L31.7567568,22.3 C33.9567568,22.3 35.7567568,21.1 35.7567568,19.6333333 L35.7567568,19.6333333 Z M10.7567568,12.3 L15.7567568,16.3133333 L22.7567568,10.3 L31.7567568,18.3 L3.75675676,18.3 L10.7567568,12.3 L10.7567568,12.3 Z" id="Shape"></path>
+            </g>
+            <rect id="Rectangle-2-Copy-15" fill="#E4EAEF" x="0" y="114" width="200" height="30" rx="3"></rect>
+            <rect id="Rectangle-2-Copy-17" fill="#E7ECF1" opacity="0.8" x="7" y="27" width="21" height="9" rx="3"></rect>
+            <rect id="Rectangle-2-Copy-18" fill-opacity="0.8" fill="#E4EAEF" x="7" y="55" width="21" height="9" rx="3"></rect>
+            <rect id="Rectangle-2-Copy-19" fill="#C8C8C8" x="7" y="41" width="21" height="9" rx="3"></rect>
+            <rect id="Rectangle-2-Copy-20" fill-opacity="0.8" fill="#E4EAEF" x="7" y="69" width="21" height="9" rx="3"></rect>
+            <rect id="Rectangle-2-Copy-21" fill="#C8C8C8" x="82" y="55" width="111" height="12" rx="3"></rect>
+            <rect id="Rectangle-2-Copy-22" fill="#C8C8C8" x="82" y="85" width="111" height="12" rx="3"></rect>
+            <path d="M9,17.5714697 L17.2813539,10 L26,17.9712769 C24.1397124,20.4100331 21.0905453,22 17.6445381,22 C14.0136186,22 10.8232707,20.2348202 9,17.5714697 Z" id="Combined-Shape-Copy-5" fill-opacity="0.3" fill="#F8B62D" transform="translate(17.500000, 16.000000) scale(1, -1) translate(-17.500000, -16.000000) "></path>
+        </g>
+        <g id="Group-6" transform="translate(24.000000, 13.000000)">
+            <g id="Empty-Flowchart">
+                <g id="Bg">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <use id="Mask" fill="#F9F9FA" xlink:href="#path-7"></use>
+                </g>
+                <text id="Features" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="-0.400000006" fill="#F8B62D">
+                    <tspan x="67.9" y="160.180451">Home / Start</tspan>
+                </text>
+                <g id="Base-Elements-/-Status-Bar">
+                    <g id="Status-Bar">
+                        <path d="M0,4 C0,1.790861 1.79010294,0 3.99507582,0 L196.004924,0 C198.211344,0 200,1.79535615 200,4 L200,8 L0,8 L0,4 Z" id="Combined-Shape" fill="#F9F9FA"></path>
+                        <rect id="Shape" fill="#E4EAEF" x="85.2631579" y="2.8" width="29.4736842" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="173.684211" y="2.8" width="18.9473684" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="163.157895" y="2.8" width="7.36842105" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="7.36842105" y="2.8" width="7.36842105" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="17.8947368" y="2.8" width="7.36842105" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="28.4210526" y="2.8" width="7.36842105" height="2.8" rx="1.4"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Shape" style="mix-blend-mode: color-dodge;" transform="translate(82.000000, 32.000000)" fill="#F9F9FA">
+                <path d="M36,32 L36,4 C36,1.8 34.2,0 32,0 L4,0 C1.8,0 0,1.8 0,4 L0,32 C0,34.2 1.8,36 4,36 L32,36 C34.2,36 36,34.2 36,32 L36,32 Z M11,21 L16,27.02 L23,18 L32,30 L4,30 L11,21 L11,21 Z"></path>
+            </g>
+            <rect id="Rectangle-2-Copy-3" fill="#E4EAEF" x="0" y="85" width="200" height="30" rx="3"></rect>
+            <path d="M9,35.1429394 L25.0755693,20 L42,35.9425538 C38.3888535,40.8200662 32.4698821,44 25.7805739,44 C18.7323185,44 12.5392903,40.4696405 9,35.1429394 Z" id="Combined-Shape" fill-opacity="0.3" fill="#F8B62D" transform="translate(25.500000, 32.000000) scale(1, -1) translate(-25.500000, -32.000000) "></path>
+            <g id="Endpoint-/-Disolve" transform="translate(140.000000, 100.000000) scale(-1, 1) translate(-140.000000, -100.000000) translate(100.000000, 98.000000)">
+                <mask id="mask-11" fill="white">
+                    <use xlink:href="#path-10"></use>
+                </mask>
+                <use id="Mask" fill="url(#linearGradient-9)" xlink:href="#path-10"></use>
+                <rect id="Line" fill="#F8B62D" mask="url(#mask-11)" x="0" y="0" width="80" height="4"></rect>
+            </g>
+        </g>
+        <g id="Group-4" transform="translate(264.000000, 366.000000)">
+            <g id="Empty-Flowchart-Copy-3">
+                <g id="Bg">
+                    <mask id="mask-13" fill="white">
+                        <use xlink:href="#path-12"></use>
+                    </mask>
+                    <use id="Mask" fill="#F9F9FA" xlink:href="#path-12"></use>
+                </g>
+                <text id="Features" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="-0.400000006" fill="#F8B62D">
+                    <tspan x="77.3451172" y="160.046875">My Order</tspan>
+                </text>
+                <g id="Base-Elements-/-Status-Bar">
+                    <g id="Status-Bar">
+                        <path d="M0,4 C0,1.790861 1.79010294,0 3.99507582,0 L196.004924,0 C198.211344,0 200,1.79535615 200,4 L200,8 L0,8 L0,4 Z" id="Combined-Shape" fill="#F9F9FA"></path>
+                        <rect id="Shape" fill="#E4EAEF" x="85.2631579" y="2.8" width="29.4736842" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="173.684211" y="2.8" width="18.9473684" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="163.157895" y="2.8" width="7.36842105" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="7.36842105" y="2.8" width="7.36842105" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="17.8947368" y="2.8" width="7.36842105" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="28.4210526" y="2.8" width="7.36842105" height="2.8" rx="1.4"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Shape-Copy-8" style="mix-blend-mode: color-dodge;" transform="translate(25.000000, 57.000000)" fill="#F9F9FA">
+                <path d="M35.7567568,21.6933333 L35.7567568,3.02666667 C35.7567568,1.56 33.9567568,0.36 31.7567568,0.36 L3.75675676,0.36 C1.55675676,0.36 -0.243243243,1.56 -0.243243243,3.02666667 L-0.243243243,21.6933333 C-0.243243243,23.16 1.55675676,24.36 3.75675676,24.36 L31.7567568,24.36 C33.9567568,24.36 35.7567568,23.16 35.7567568,21.6933333 L35.7567568,21.6933333 Z M10.7567568,14.36 L15.7567568,18.3733333 L22.7567568,12.36 L31.7567568,20.36 L3.75675676,20.36 L10.7567568,14.36 L10.7567568,14.36 Z" id="Shape"></path>
+            </g>
+            <g id="Shape-Copy-9" style="mix-blend-mode: color-dodge;" transform="translate(25.000000, 27.000000)" fill="#F9F9FA">
+                <path d="M35.7567568,21.6933333 L35.7567568,3.02666667 C35.7567568,1.56 33.9567568,0.36 31.7567568,0.36 L3.75675676,0.36 C1.55675676,0.36 -0.243243243,1.56 -0.243243243,3.02666667 L-0.243243243,21.6933333 C-0.243243243,23.16 1.55675676,24.36 3.75675676,24.36 L31.7567568,24.36 C33.9567568,24.36 35.7567568,23.16 35.7567568,21.6933333 L35.7567568,21.6933333 Z M10.7567568,14.36 L15.7567568,18.3733333 L22.7567568,12.36 L31.7567568,20.36 L3.75675676,20.36 L10.7567568,14.36 L10.7567568,14.36 Z" id="Shape"></path>
+            </g>
+            <rect id="Rectangle-2-Copy-4" fill-opacity="0.8" fill="#E4EAEF" x="70" y="30" width="111" height="12" rx="3"></rect>
+            <rect id="Rectangle-2-Copy-16" fill="#C8C8C8" x="130" y="85" width="51" height="12" rx="3"></rect>
+            <rect id="Rectangle-2-Copy-5" fill-opacity="0.8" fill="#E4EAEF" x="70" y="60" width="111" height="12" rx="3"></rect>
+            <rect id="Rectangle-2-Copy" fill="#E4EAEF" x="0" y="114" width="200" height="30" rx="3"></rect>
+            <path d="M9,19.5714697 L17.2813539,12 L26,19.9712769 C24.1397124,22.4100331 21.0905453,24 17.6445381,24 C14.0136186,24 10.8232707,22.2348202 9,19.5714697 Z" id="Combined-Shape-Copy-2" fill-opacity="0.3" fill="#F8B62D" transform="translate(17.500000, 18.000000) scale(1, -1) translate(-17.500000, -18.000000) "></path>
+            <g id="Endpoint-/-Disolve-Copy" transform="translate(140.000000, 129.000000) scale(-1, 1) translate(-140.000000, -129.000000) translate(100.000000, 127.000000)">
+                <mask id="mask-15" fill="white">
+                    <use xlink:href="#path-14"></use>
+                </mask>
+                <use id="Mask" fill="url(#linearGradient-9)" xlink:href="#path-14"></use>
+                <rect id="Line" fill="#F8B62D" mask="url(#mask-15)" x="0" y="0" width="80" height="4"></rect>
+            </g>
+        </g>
+        <g id="Group-3" transform="translate(24.000000, 189.000000)">
+            <g id="Empty-Flowchart-Copy-2">
+                <g id="Bg">
+                    <mask id="mask-17" fill="white">
+                        <use xlink:href="#path-16"></use>
+                    </mask>
+                    <use id="Mask" fill="#F9F9FA" xlink:href="#path-16"></use>
+                </g>
+                <text id="Features" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" line-spacing="20" letter-spacing="-0.400000006" fill="#F8B62D">
+                    <tspan x="71.3042969" y="160.046875">Dine / Drink</tspan>
+                </text>
+                <g id="Base-Elements-/-Status-Bar">
+                    <g id="Status-Bar">
+                        <path d="M0,4 C0,1.790861 1.79010294,0 3.99507582,0 L196.004924,0 C198.211344,0 200,1.79535615 200,4 L200,8 L0,8 L0,4 Z" id="Combined-Shape" fill="#F9F9FA"></path>
+                        <rect id="Shape" fill="#E4EAEF" x="85.2631579" y="2.8" width="29.4736842" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="173.684211" y="2.8" width="18.9473684" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="163.157895" y="2.8" width="7.36842105" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="7.36842105" y="2.8" width="7.36842105" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="17.8947368" y="2.8" width="7.36842105" height="2.8" rx="1.4"></rect>
+                        <rect id="Shape" fill="#E4EAEF" x="28.4210526" y="2.8" width="7.36842105" height="2.8" rx="1.4"></rect>
+                    </g>
+                </g>
+            </g>
+            <rect id="Rectangle-2" fill="#E4EAEF" x="0" y="114" width="200" height="30" rx="3"></rect>
+            <path d="M9,19.5714697 L17.2813539,12 L26,19.9712769 C24.1397124,22.4100331 21.0905453,24 17.6445381,24 C14.0136186,24 10.8232707,22.2348202 9,19.5714697 Z" id="Combined-Shape-Copy-3" fill-opacity="0.3" fill="#F8B62D" transform="translate(17.500000, 18.000000) scale(1, -1) translate(-17.500000, -18.000000) "></path>
+            <path d="M133.996551,102 C133.72907,82.6243832 117.93917,67 98.5,67 C79.0608297,67 63.2709296,82.6243832 63.0034493,102 L16,102 C16,56.7126505 52.7126505,20 98,20 C143.287349,20 180,56.7126505 180,102 L133.996551,102 Z" id="Combined-Shape-Copy-7" stroke="#F9F9FA" stroke-width="6" fill="#E7ECF1"></path>
+            <path d="M152.367753,40.6168624 C169.316976,55.6393173 180,77.573751 180,102.003339 L133.996551,102.003339 C133.835801,90.3590112 128.06874,80.0695359 119.272536,73.7120794 L152.367753,40.6168624 Z M44.3362359,40 L77.9142393,73.5780034 C69.0129786,79.9243009 63.1653342,90.2767937 63.0034493,102.003339 L16,102.003339 C16,77.2372303 26.9793712,55.0354915 44.3362359,40 Z" id="Combined-Shape" stroke="#F9F9FA" stroke-width="6" fill="#E7ECF1"></path>
+            <path d="M65.0918754,100 C66.3706539,82.6660288 80.8393909,69 98.5,69 C116.160609,69 130.629346,82.6660288 131.908125,100 L65.0918754,100 Z" id="Combined-Shape" fill="#E7ECF1"></path>
+        </g>
+    </g>
+</svg>
